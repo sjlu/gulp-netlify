@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/sjlu/gulp-fastly/issues"
   },
-  "homepage": "https://github.com/sjlu/gulp-fastly#readme"
+  "homepage": "https://github.com/sjlu/gulp-fastly#readme",
+  "dependencies": {
+    "concat-stream": "^1.5.1",
+    "request": "^2.72.0",
+    "through2": "^2.0.1",
+    "yazl": "^2.3.1"
+  }
 }
