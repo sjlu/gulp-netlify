@@ -1,0 +1,23 @@
+{
+  "name": "gulp-netlify",
+  "version": "1.0.0",
+  "description": "A gulp plugin to help upload your site to netlify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sjlu/gulp-fastly.git"
+  },
+  "keywords": [
+    "gulp",
+    "netlify"
+  ],
+  "author": "Steven Lu <slu@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sjlu/gulp-fastly/issues"
+  },
+  "homepage": "https://github.com/sjlu/gulp-fastly#readme"
+}
