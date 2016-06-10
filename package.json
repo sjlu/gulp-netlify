@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/sjlu/gulp-fastly.git"
+    "url": "git+ssh://git@github.com/sjlu/gulp-netlify.git"
   },
   "keywords": [
     "gulp",
@@ -17,9 +17,9 @@
   "author": "Steven Lu <slu@me.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sjlu/gulp-fastly/issues"
+    "url": "https://github.com/sjlu/gulp-netlify/issues"
   },
-  "homepage": "https://github.com/sjlu/gulp-fastly#readme",
+  "homepage": "https://github.com/sjlu/gulp-netlify#readme",
   "dependencies": {
     "concat-stream": "^1.5.1",
     "request": "^2.72.0",
