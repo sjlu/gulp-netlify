@@ -1,6 +1,6 @@
 {
   "name": "gulp-netlify",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A gulp plugin to help upload your site to netlify",
   "main": "index.js",
   "scripts": {
